@@ -33,7 +33,7 @@ My interests extend beyond the classroom, as I am passionate about leveraging te
 ## 📖 Github Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisH18&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisH18&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisH18&theme=radical)
 
 
 ## 🔧 Skills

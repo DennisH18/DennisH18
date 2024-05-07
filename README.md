@@ -10,10 +10,14 @@
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Personal Website][website-shield]][website-url]
+
+
+
 
 ## 👋 Introduction
 
-I am a student pursuing Bachelor of Information Systems at Singapore Management University. Throughout my academic career, I've been actively involved in roles that test and refine my skills.
+I am a Final year student pursuing Bachelor of Information Systems at Singapore Management University.
 
 My interests extend beyond the classroom, as I am passionate about leveraging technology to solve real-world problems. I thrive in collaborative settings where innovation is at the forefront, and my curiosity drives me to stay ahead of tech trends and explore the latest digital solutions.
 
@@ -26,14 +30,11 @@ My interests extend beyond the classroom, as I am passionate about leveraging te
 - **Singapore Management University (SMU)**
   - Bachelor of Science (Information Systems), 2021 - Present
   - Dual Track in Business Analytics and Digitalization Cloud Solutions
-  - Relevant Course Work: Computational Thinking, Data Management, Web Development, Business Process Analysis, Social Analytics, Data Mining and Business Analytics, IT Solution Architecture, Digital Transformation Strategy, Software Project Management
-  - Expected Graduation Date: December 2024
-
 
 ## 📖 Github Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisH18&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisH18&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisH18&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisH18&theme=dark)
 
 
 ## 🔧 Skills
@@ -62,3 +63,6 @@ My interests extend beyond the classroom, as I am passionate about leveraging te
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/dennis-hardianto-196729218/
+
+[website-shield]:https://img.shields.io/badge/Portfolio-gray.svg?style=flat-square&logo=briefcase&logoColor=white
+[website-url]: https://dennishardianto.vercel.app
